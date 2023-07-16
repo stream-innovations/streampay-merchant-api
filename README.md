@@ -21,6 +21,8 @@ The Stream Protocol
 
 ## Developers: StreamPay Merchant API 
 
+StreamPayments is a cloud-hosted crypto payment gateway. Accept ETH, MATIC, TRON, USDT, and USDC with ease. Open new opportunities for your product by accepting cryptocurrency.
+
 To create a StreamPay Web3 Payment API and SDK using the Solana blockchain, you can follow the steps outlined below:
 
 ### 1 Set up the development environment:
