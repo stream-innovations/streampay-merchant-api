@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: ADMIN API
+  title: StreamPay Admin API
 host: 127.0.0.1
 basePath: /internal/v1/admin
 produces:
