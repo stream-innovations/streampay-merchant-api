@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   version: 1.0.0
-  title: Dashboard API
+  title: StreamPay Dashboard API
   description: |
     Dashboard API represents Merchant Dashboard.
 
