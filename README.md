@@ -1,4 +1,4 @@
-## Welcome to StreamPay!
+# Welcome to StreamPay!
 
 We are thrilled to have you on board as a part of our platform. At StreamPay, we are passionate about providing businesses with a seamless experience when it comes to accepting crypto payments. We firmly believe that every business should have access to the benefits and opportunities that cryptocurrencies bring.
 
@@ -19,7 +19,7 @@ Welcome to StreamPay, where accepting crypto payments becomes a seamless experie
 Best regards,
 The Stream Protocol
 
-# Developers: StreamPay Merchant API 
+## Developers: StreamPay Merchant API 
 
 To create a StreamPay Web3 Payment API and SDK using the Solana blockchain, you can follow the steps outlined below:
 
