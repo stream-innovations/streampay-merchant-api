@@ -1,3 +1,24 @@
+## Welcome to StreamPay!
+
+We are thrilled to have you on board as a part of our platform. At StreamPay, we are passionate about providing businesses with a seamless experience when it comes to accepting crypto payments. We firmly believe that every business should have access to the benefits and opportunities that cryptocurrencies bring.
+
+In this document, we will guide you through the initial stages of using StreamPay. Our goal is to make accepting crypto payments as easy and straightforward as possible. We want to empower you with the tools and knowledge needed to embrace this emerging technology and leverage it to enhance your business operations.
+
+With StreamPay, you will discover a user-friendly platform that simplifies the process of accepting crypto payments. Our comprehensive solution ensures that you can securely and efficiently handle transactions, without the complexity traditionally associated with cryptocurrencies.
+
+Throughout this journey, we will provide you with step-by-step instructions, valuable resources, and dedicated support to ensure a smooth onboarding experience. We want you to feel confident and empowered as you embark on this exciting venture.
+
+Whether you're a small business, an e-commerce store, or an enterprise-level organization, StreamPay is designed to cater to your specific needs. By accepting crypto payments, you can tap into a global market, enjoy faster transactions, reduce fees, and experience increased security.
+
+We're excited to show you how to integrate StreamPay into your existing systems and processes, enabling you to accept various cryptocurrencies effortlessly. From setting up StreamPay API and SDK to customizing your payment flow, we'll be with you every step of the way.
+
+Thank you for joining us on this journey. Let's dive in and explore the boundless possibilities that StreamPay offers for your business. If you have any questions or need assistance, our dedicated support team is here to help.
+
+Welcome to StreamPay, where accepting crypto payments becomes a seamless experience!
+
+Best regards,
+The Stream Protocol
+
 # Developers: StreamPay Merchant API 
 
 To create a StreamPay Web3 Payment API and SDK using the Solana blockchain, you can follow the steps outlined below:
