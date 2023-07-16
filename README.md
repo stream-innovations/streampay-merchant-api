@@ -1,6 +1,6 @@
 # Welcome to StreamPay!
 
-We are thrilled to have you on board as a part of our platform. At StreamPay, we are passionate about providing businesses with a seamless experience when it comes to accepting crypto payments. We firmly believe that every business should have access to the benefits and opportunities that cryptocurrencies bring.
+We are thrilled to have you on board as a part of StreamPayments platform. At StreamPay, we are passionate about providing businesses with a seamless experience when it comes to accepting crypto payments. We firmly believe that every business should have access to the benefits and opportunities that cryptocurrencies bring.
 
 In this document, we will guide you through the initial stages of using StreamPay. Our goal is to make accepting crypto payments as easy and straightforward as possible. We want to empower you with the tools and knowledge needed to embrace this emerging technology and leverage it to enhance your business operations.
 
